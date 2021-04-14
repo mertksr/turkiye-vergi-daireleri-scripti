@@ -33,7 +33,7 @@
 		</div>
 	</div>
 
-	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="jquery.min.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function() {
 			function loadData(type, category_id) {
