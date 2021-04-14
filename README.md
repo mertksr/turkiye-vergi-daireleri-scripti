@@ -1,0 +1,1 @@
+MySQL Tablo Adı : vdaireleri
